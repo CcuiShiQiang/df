@@ -1,4 +1,4 @@
-# dohalf
+# 移动端适配模板
 
 ## Project setup
 ```
